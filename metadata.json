@@ -1,0 +1,6 @@
+{
+  "name": "หมากฮอสไทย (Thai Checkers)",
+  "description": "เกมหมากฮอสไทย กติกามาตรฐาน บังคับกิน เข้าฮอส เล่นได้ทั้ง 2 คนและสู้กับคอมพิวเตอร์ โทนไม้สวยงาม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
